@@ -55,7 +55,7 @@ Material:
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 0, g: 46.27064, b: 59.714115, a: 1}
+    - _Color: {r: 0.67924523, g: 0.67924523, b: 0.67924523, a: 1}
     - _NoiseSpeed: {r: 0, g: 0.5, b: 0, a: 0}
     - _TwirlCenter: {r: 0.5, g: -0.5, b: 0, a: 0}
     - _TwirlSpeed: {r: 0, g: 0.5, b: 0, a: 0}
