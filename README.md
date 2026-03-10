@@ -1,2 +1,0 @@
-# Blizzard_VFX-GIT
-
