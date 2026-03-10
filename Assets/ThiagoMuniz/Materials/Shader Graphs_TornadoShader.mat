@@ -29,7 +29,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2453
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses: []
@@ -54,21 +54,23 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 0
-    - _Dissolve: 0.709
+    - _Dissolve: 0.184
     - _DstBlend: 0
-    - _NoisePower: 0.65
-    - _NoiseScale: 59.2
+    - _NoisePower: 0.6
+    - _NoiseScale: 50.86
+    - _PolarRadial: 0
+    - _PolarTwirl: 5.05
     - _QueueControl: 0
-    - _QueueOffset: 0
+    - _QueueOffset: 3
     - _SrcBlend: 1
     - _Surface: 0
-    - _TwirlAmount: 2
+    - _TwirlAmount: 3.27
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
     - _Color: {r: 19.466568, g: 1.6935719, b: 0.30899313, a: 1}
-    - _NoiseSpeed: {r: 0, g: 0.65, b: 0, a: 0}
+    - _NoiseSpeed: {r: 0, g: 0.64, b: 0, a: 0}
     - _TwirlCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _TwirlSpeed: {r: 0, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
