@@ -54,10 +54,12 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 0
-    - _Dissolve: 0.691
+    - _Dissolve: 1
     - _DstBlend: 0
-    - _NoisePower: 0.65
+    - _NoisePower: 1.03
     - _NoiseScale: 32
+    - _PolarRadial: 0
+    - _PolarTwirl: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 1
@@ -67,8 +69,8 @@ Material:
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 50.18856, g: 21.748598, b: 4.971508, a: 1}
-    - _NoiseSpeed: {r: 0, g: 1.22, b: 0, a: 0}
+    - _Color: {r: 5.2164755, g: 2.2668452, b: 0.5189164, a: 1}
+    - _NoiseSpeed: {r: 0, g: 0.61, b: 0, a: 0}
     - _TwirlCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _TwirlSpeed: {r: 0, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []

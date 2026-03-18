@@ -54,10 +54,12 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 0
-    - _Dissolve: 0.709
+    - _Dissolve: 0.72
     - _DstBlend: 0
-    - _NoisePower: 0.65
+    - _NoisePower: 0.27
     - _NoiseScale: 59.2
+    - _PolarRadial: 0
+    - _PolarTwirl: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 1
